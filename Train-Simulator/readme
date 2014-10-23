@@ -1,0 +1,4 @@
+'train simulator 2014'
+
+simple program, contains a lookup table of connected devices
+contains a few functions to send packets to connected devices (delays, cancellations etc.)
