@@ -1,6 +1,16 @@
 Idea Zone
 
 
+
+-What's Shit About Trains...
+  Messy Toilets
+  Overcrowding
+  It's Boring
+  Delays
+
+  
+
+
 -Full Carages
   Carrage Allocation Algorithm
 -Toilets
@@ -21,8 +31,35 @@ Idea Zone
   Users should define preferences
     Quiet Zone
     Do They Mind Crowded Carrages
+  Users define interests
+  Sightseeing
+  Review Journeys
+    Service
+    Crowding
+    Speed (Delays etc)
+  
 
 
 
 -Group Passengers With Common Interestings
 
+
+Social Integration
+  Facebook
+
+Other Integration
+  Network Rail API
+
+
+Database Interstructure
+  Trains
+  Users
+  Stations
+  Carrages
+  Tickets
+  
+
+
+Data Warehousing
+  Define Variables to be classified/clustered
+  Define Featuresets for the class variables
