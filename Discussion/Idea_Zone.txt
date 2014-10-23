@@ -63,3 +63,18 @@ Database Interstructure
 Data Warehousing
   Define Variables to be classified/clustered
   Define Featuresets for the class variables
+  .arff or .csv structure
+
+
+
+
+
+
+Business Stuff
+  Stakeholders
+    Customers
+    Travvelers
+    Network Rail
+    Staff
+  Roadmap
+    
