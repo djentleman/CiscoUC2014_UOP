@@ -15,3 +15,14 @@ Idea Zone
   Cancelations
   Route Changes
   If You're On The Wrong Train
+
+
+-Application Structure
+  Users should define preferences
+    Quiet Zone
+    Do They Mind Crowded Carrages
+
+
+
+-Group Passengers With Common Interestings
+
