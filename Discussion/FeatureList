@@ -1,0 +1,12 @@
+Features:
+  Notifications:
+    Delays
+    Cancelations
+    Route Changes
+  Social:
+    Facebook integration
+      Interests
+      User Data (Names)
+    Carrage Allocation based on derived interests
+  Tickets:
+    Ticket -> Journey
