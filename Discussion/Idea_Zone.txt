@@ -1,0 +1,17 @@
+Idea Zone
+
+
+-Full Carages
+  Carrage Allocation Algorithm
+-Toilets
+  Allocate Passengers to toilets that are fairly clean
+-Quiet Carrages
+  Take this into allocating passengers
+
+
+
+-Notify Users Of:
+  Delays
+  Cancelations
+  Route Changes
+  If You're On The Wrong Train
